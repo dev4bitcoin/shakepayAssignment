@@ -1,0 +1,128 @@
+.title {
+  border: 1px solid gray;
+  border-right: 0px;
+  border-left: 0px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+.subtitle {
+  color: #657795;
+  font-weight: 700;
+  display: inline-block;
+}
+
+.mainTitle {
+  font-weight: 700;
+  font-size: 2em;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.chartArea {
+  box-shadow: rgb(42 51 83 / 12%) 0px 15px 35px 0px,
+    rgb(0 0 0 / 6%) 0px 5px 15px;
+  padding: 20px;
+}
+
+.buttons {
+  display: inline-flex;
+  width: 100%;
+}
+
+.currencyButtons {
+  margin-top: 20px;
+  text-align: left;
+  width: 35%;
+}
+
+.button {
+  background-color: lightskyblue;
+  color: black;
+  font-size: 20px;
+  padding: 10px 50px;
+  border-radius: 5px;
+  margin: 10px 5px;
+  cursor: pointer;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  vertical-align: top;
+  padding-right: 15px;
+}
+
+.wallet {
+  padding-top: 15px;
+  padding-right: 50px;
+  display: flex;
+}
+
+.walletHeader {
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  padding-bottom: 10px;
+  padding-top: 50px;
+}
+
+.walletDetail {
+  padding: 20px 10px 10px 20px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  width: 300px;
+  border: 1px solid gray;
+  margin-right: 20px;
+}
+
+.btcPrice {
+  width: 300px;
+  padding: 20px 10px 10px 20px;
+  border: 1px solid gray;
+  border-top: 0px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.btcWalletLogo {
+  width: 30px;
+  height: 30px;
+  vertical-align: top;
+  padding-right: 15px;
+}
+
+.btcBalance {
+  display: inline-flex;
+}
+
+.balance {
+  text-align: right;
+  width: 190px;
+  font-size: 1.4em;
+  font-weight: 700;
+}
+
+.balanceTitle {
+  padding-left: 15px;
+  font-size: 1.4em;
+  font-weight: 400;
+}
+
+.fiatValue {
+  text-align: right;
+  font-size: 1.3em;
+  padding: 20px 8px 0 0;
+  font-weight: 500;
+  color: lightslategrey;
+}
+
+.btcPrice {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.wallets {
+  display: inline-flex;
+}
