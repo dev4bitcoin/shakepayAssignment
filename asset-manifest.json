@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shakepay/static/css/main.76cd4843.css",
+    "main.js": "/shakepay/static/js/main.4c6b1fc2.js",
+    "static/js/787.659c860e.chunk.js": "/shakepay/static/js/787.659c860e.chunk.js",
+    "static/media/bitcoin.png": "/shakepay/static/media/bitcoin.995f1e672a3552f02c3b.png",
+    "static/media/cad.png": "/shakepay/static/media/cad.667a7174b485c66ab786.png",
+    "index.html": "/shakepay/index.html",
+    "main.76cd4843.css.map": "/shakepay/static/css/main.76cd4843.css.map",
+    "main.4c6b1fc2.js.map": "/shakepay/static/js/main.4c6b1fc2.js.map",
+    "787.659c860e.chunk.js.map": "/shakepay/static/js/787.659c860e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76cd4843.css",
+    "static/js/main.4c6b1fc2.js"
+  ]
+}
