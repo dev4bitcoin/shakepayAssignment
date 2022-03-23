@@ -1,5 +1,5 @@
 
-# shakepayAssignment
+# Shakepay Assignment
 Check the [demo](https://vivekperumal.github.io/shakepay/index.html) here. 
 
 # Getting Started with Create React App
